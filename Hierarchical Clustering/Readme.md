@@ -2,7 +2,7 @@
 
 ## Hierarchical Clustering
 
-This Sub folder has basics of Feature scaling on cluster data using MinMaxScalar and StandardScalar.
+This Sub folder has basics of various types of Hierarchial Clustering method.
 
 1. Supporting files:
 
