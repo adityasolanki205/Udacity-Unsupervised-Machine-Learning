@@ -6,7 +6,7 @@ This Sub folder has basics of Feature scaling on cluster data using MinMaxScalar
 
 1. Supporting files:
 
-    - Hierarchical Clustering.ipynb
+    - Hierarchical Clustering Lab.ipynb
 
 
 ```python
