@@ -1,6 +1,6 @@
 # Intro to Machine Learning Nanodegree
 
-## Gausian Mixture Modeling
+## Gaussian Mixture Modeling
 
 This Sub folder has basics of Gausian Mixture modeling and is evaluation parameter Adjusted Rand Score.
 
