@@ -2,7 +2,7 @@
 
 ### Principle Component Analysis Practice
 
-This Sub folder has basics of Identifing Clusters using DBSCAN algorithm .
+This Sub folder has basics of Principle Component Analysis.
 
 1. Supporting files:
 
