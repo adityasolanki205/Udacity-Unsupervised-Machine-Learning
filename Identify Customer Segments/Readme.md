@@ -2,7 +2,7 @@
 
 ### Identify Customer Segement Project
 
-This Sub folder has basics of Identifing Clusters using DBSCAN algorithm .
+This Sub folder has basics of Identifing Clusters segment for a Project done under Unsupervised Learning.
 
 1. Supporting files:
 
